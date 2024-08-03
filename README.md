@@ -1,7 +1,7 @@
 # scrapy-freecodecamp-practice
 practicing scrapy 
-Part 1: Course & Scrapy Overview []
-Part 2: Setting Up Environment & Scrapy []
+-- Part 1: Course & Scrapy Overview []
+-- Part 2: Setting Up Environment & Scrapy []
 Part 3: Creating Scrapy Project []
 Part 4: First Scrapy Spider []
 Part 5: Crawling With Scrapy []
