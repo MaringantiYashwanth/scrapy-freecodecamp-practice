@@ -1,8 +1,12 @@
 # scrapy-freecodecamp-practice
 practicing scrapy 
-- Part 1: Course & Scrapy Overview []
-- Part 2: Setting Up Environment & Scrapy []
-- Part 3: Creating Scrapy Project []
+- Part 1: Course & Scrapy Overview [X] 5% Completed
+- Part 2: Setting Up Environment & Scrapy [X] 10% Completed
+- Part 3: Creating Scrapy Project [X]
+    - How to Create A Scrapy Project (scrapy startproject bookscraper)
+    - Overview of the Scrapy Project
+    - Explaining the Scrapy Spiders, Item & Item Pipelines
+    - Explaining the Scrapy Middlewares & Settings
 - Part 4: First Scrapy Spider []
 - Part 5: Crawling With Scrapy []
 - Part 6: Cleaning Data With Item Pipelines []
